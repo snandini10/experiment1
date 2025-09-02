@@ -1,10 +1,10 @@
 body {
   font-family: sans-serif;
-  background: #eef;
+  background: gray;
   padding: 20px;
 }
 form {
-  background: PeachPuff;
+  background: lime;
   padding: 20px;
   max-width: 400px;
   border-radius: 5px;
