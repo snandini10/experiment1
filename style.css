@@ -1,15 +1,17 @@
 body {
   font-family: sans-serif;
-  background: green;
+  background: #F0FFF0;
   padding: 20px;
 }
 form {
-  background: red;
+  background: #228B22;
+  color: white; 
   padding: 20px;
   max-width: 400px;
   border-radius: 5px;
   margin: auto;
 }
+
 label {
   display: block;
   margin-bottom: 10px;
